@@ -1,0 +1,7 @@
+tiktoken
+fire
+prettytable
+matplotlib
+numpy
+pandas
+seaborn
